@@ -12,11 +12,6 @@ FRONTEND DEVELOPER| GEN AI ENGINEER
 ![](https://streak-stats.demolab.com/?user=CodephilicNishant &theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodephilicNishant &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodephilicNishant &theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CodephilicNishant &limit=5&theme=dark&combine_all_yearly_contributions=true)
